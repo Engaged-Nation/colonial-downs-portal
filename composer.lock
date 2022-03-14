@@ -940,7 +940,7 @@
         },
         {
             "name": "engaged-nation/doctrine-portal",
-            "version": "dev-rc",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/doctrine-portal.git",
@@ -981,7 +981,7 @@
         },
         {
             "name": "engaged-nation/lib-central-admin-client",
-            "version": "dev-master",
+            "version": "v2.48.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/lib-central-admin-client.git",
@@ -1018,7 +1018,7 @@
         },
         {
             "name": "engaged-nation/lib-encryption",
-            "version": "dev-master",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/lib-encryption.git",
@@ -1068,16 +1068,16 @@
         },
         {
             "name": "engaged-nation/lib-mgt-client",
-            "version": "dev-master",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/lib-mgt-client.git",
-                "reference": "27fdd95f75051f178b86591c198467128c269c41"
+                "reference": "79b8cafec652d7d3ad6722f8bd5ea9963d3db487"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/lib-mgt-client/zipball/27fdd95f75051f178b86591c198467128c269c41",
-                "reference": "27fdd95f75051f178b86591c198467128c269c41",
+                "url": "https://api.github.com/repos/Engaged-Nation/lib-mgt-client/zipball/79b8cafec652d7d3ad6722f8bd5ea9963d3db487",
+                "reference": "79b8cafec652d7d3ad6722f8bd5ea9963d3db487",
                 "shasum": ""
             },
             "require": {
@@ -1105,7 +1105,7 @@
         },
         {
             "name": "engaged-nation/portal-core",
-            "version": "dev-rc",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/portal-core.git",
@@ -1121,10 +1121,10 @@
                 "aws/aws-sdk-php": "^3.19",
                 "consolidation/robo": "^1.0",
                 "doctrine/common": "^2.6",
-                "engaged-nation/doctrine-portal": "dev-rc",
-                "engaged-nation/lib-central-admin-client": "dev-master",
-                "engaged-nation/lib-encryption": "dev-master",
-                "engaged-nation/lib-mgt-client": "dev-master",
+                "engaged-nation/doctrine-portal": "dev-master",
+                "engaged-nation/lib-central-admin-client": "^2.0",
+                "engaged-nation/lib-encryption": "^1.0",
+                "engaged-nation/lib-mgt-client": "^1.1",
                 "guzzlehttp/guzzle": "^6.2",
                 "league/csv": "^8.0",
                 "phake/phake": "^2.3",
