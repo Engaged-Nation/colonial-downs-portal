@@ -58,6 +58,6 @@ class ConfigClient extends AbstractConfigClient
      */
     public static function getClientAlias()
     {
-        return 'tachitablet';
+        return 'colonial-downs';
     }
 }
